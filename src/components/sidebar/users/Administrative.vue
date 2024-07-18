@@ -25,7 +25,10 @@ const handleKeydown = (event: KeyboardEvent) => {
 };
 
 
- // Declaración de la variable para almacenar los administradores
+
+
+ 
+
  const type = ref(null);
  const filter = ref(null);
 
